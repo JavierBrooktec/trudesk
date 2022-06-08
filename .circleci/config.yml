@@ -105,7 +105,7 @@ workflows:
   version: 2.1
   general:
     jobs:
-      - build_general
+      - build_docker_next
   #nightly:
   #  triggers:
   #    - schedule:
