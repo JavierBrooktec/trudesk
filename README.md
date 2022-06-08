@@ -17,6 +17,7 @@
 <br />
 
 ### Open Source Help Desk - Simply Organized.
+
 Quickly resolve issues & task with an easy-to-use solution. Built with one goal in mind, to keep work loads organized and simple. **This is the source for Trudesk Community Edition. For the more comprehensive, cloud-hosted version, please see Trudesk Cloud at <a href="http://trudesk.io">Trudesk.io</a>.**
 
 <p align="center">
@@ -24,25 +25,31 @@ Quickly resolve issues & task with an easy-to-use solution. Built with one goal 
 </p>
 
 #### Deploy Trudesk Anywhere
+
 **Trudesk** is built with <a href="https://nodejs.org">nodejs</a> and <a href="https://mongodb.org">mongodb</a> and can run on any cloud provider, docker, bare-metal, or even a raspberry pi.
 Take it for a spin on Ubuntu 20.04 with a one liner - <br />`curl -L -s https://storage.trudesk.io/install/ubuntu-1.2.sh | sudo bash`
 
 #### Requirements
+
 - NodeJS 16+
 - MongoDB 5.0+
 - Elasticsearch 8 (optional to enable search)
 
 ### Documentation
+
 Online documentation: [https://docs.trudesk.io/v1.2](https://docs.trudesk.io/v1.2)
 
 ### Contributing
+
 If you like what you see here, and want to help support the work being done, you could:
-+ Report Bugs
-+ Request/Implement Features
-+ Refactor Codebase
-+ Help Write Documentation
+
+- Report Bugs
+- Request/Implement Features
+- Refactor Codebase
+- Help Write Documentation
 
 ### Sponsors
+
 Just a few who have made the project possible.
 <br />
 <a href="https://www.browserstack.com"><img src="https://files.trudesk.io/browserstack-logo-600x315.png" width="115" /></a>
@@ -52,13 +59,13 @@ Trudesk is tested with confidence using [BrowserStack](https://browserstack.com)
 ### License
 
     Copyright 2014-2022 Trudesk, Inc.
-    
+
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-    
+
     http://www.apache.org/licenses/LICENSE-2.0
-    
+
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
